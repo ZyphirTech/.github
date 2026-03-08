@@ -19,4 +19,4 @@ Innovating digital experiences through scalable software solutions.
 
 ## 📫 Contact
 
-lianthonygg@gmail.com
+fluqore@gmail.com
